@@ -1,3 +1,3 @@
 <?php
-    echo "sample";
+    echo "this is my first heroku sample";
 ?>
